@@ -25,7 +25,7 @@ A validação é feita de forma **recursiva**, explorando todas as conexões pos
 
 ```
 .
-├── voos.py        # Código principal
+├── main.py        # Código principal
 └── README.md      # Documentação do projeto
 ```
 
